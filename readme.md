@@ -28,4 +28,4 @@ This Rode clone page,it  took me almost 3 hrs to complete,this is my project in 
 
 
 ## Here is live link
-[Live link]()
+[Live link](https://rohini-rode-clone.netlify.app/)
